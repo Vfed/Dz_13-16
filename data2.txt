@@ -1,0 +1,6 @@
+
+Rare age: 0 1 5 6 10 12 17 21 24 28 31 36 41 44 45 48 50 54 64 66 68 74 76 77 81 83 87 88 91 92 96 98 
+Often age: 16 
+Middle age: 45
+Number of People, age not betwen (14-79): 30
+Names of People, age betwen (14-79): Ira Vira Oleg Kolia Victor Kate Anton Andriy 
